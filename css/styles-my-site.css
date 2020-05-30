@@ -52,7 +52,8 @@ td
   background-color: #a6b1e1;
   position: relative;
   padding-top: 100px;
-  height: 874px;
+
+  max-height:fit-content;
 }
 .middle-container
 {
