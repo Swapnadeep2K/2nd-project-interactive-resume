@@ -1,0 +1,291 @@
+body
+{
+  margin: 0;
+  color: #40514E;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1
+{
+  margin: 50px auto 0;
+  font-size: 3.75rem;
+  font-family: 'Dancing Script', cursive;
+  color: #424874;
+}
+h2
+{
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #7f78d2;
+  font-weight: 400;
+}
+h3
+{
+  font-family: 'Montserrat', sans-serif;
+  color: #a6b1e1;
+}
+a
+{
+  color: #a6b1e1;
+}
+hr
+{
+  background-color: white;
+  border-style: dotted none none;
+  border-color: #EAF6F6;
+  border-width: 6px;
+  width: 4%;
+  margin: 75px auto;
+}
+p
+{
+  opacity: 0.9;
+}
+td
+{
+  opacity: 0.9;
+}
+
+
+.top-container
+{
+  background-color: #a6b1e1;
+  position: relative;
+  padding-top: 100px;
+  height: 874px;
+}
+.middle-container
+{
+  padding-top: 8rem;
+}
+.bottom-container
+{
+  background-color: #a6b1e1;
+  padding-top: 50px;
+  padding-bottom: 35px;
+}
+.bottom-cloud
+{
+  position: absolute;
+  left: 17rem;
+  bottom: 38.5rem;
+  width: 9.375rem;
+}
+.top-cloud
+{
+  position: absolute;
+  right: 18.75rem;
+  top: 1.875rem;
+  width: 9.375rem;
+}
+.hill
+{
+  width: 100%;
+  padding-top: 4rem;
+}
+.skills
+{
+  background-color: #f4eeff;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.p
+{
+  color: #424874;
+  font-weight: normal;
+}
+.name
+{
+  font-family: 'Sacramento', cursive;
+}
+.skill-row
+{
+  width: 60%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.td
+{
+  padding-right: 13.5rem;
+}
+.td:hover
+{
+  color: #a6b1e1;
+}
+#itd
+{
+  text-align: left;
+}
+.td1
+{
+  padding-right: 1rem;
+}
+.td2
+{
+  padding-right: 8.57rem;
+}
+.td2:hover
+{
+  color: #a6b1e1;
+}
+.td3
+{
+  padding-right: 17.2rem;
+}
+.td3:hover
+{
+  color: #a6b1e1;
+}
+.skill-1-img
+{
+  width: 30%;
+  margin-right: 30px;
+  float: left;
+}
+.skill-2-img
+{
+  width: 30%;
+  margin-left: 30px;
+  float: right;
+}
+.skill-3-img
+{
+  width: 30%;
+  margin-right: 30px;
+  float: left;
+}
+.skill-4-img
+{
+  width: 30%;
+  margin-left: 30px;
+  float: right;
+}
+.footer-link
+{
+  color: #7f78d2;
+  font-size: 0.85rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+  padding-left: 1.2rem;
+  padding-right: 1.2rem;
+}
+.footer-link:hover
+{
+  color: #f4eeff;
+}
+.contact-me
+{
+  line-height: 2;
+  padding-top: 40px;
+  padding-bottom: 50px;
+  background-color: #f4eeff;
+}
+.profile
+{
+  padding-bottom: 40px;
+}
+.intro
+{
+  display: inline-block;
+  width: 40%;
+  line-height: 2;
+}
+/*.fixed
+{
+  background-color: #f4eeff;
+  position: fixed;
+  height: 100px;
+  width: 100%;
+  font-weight: bold;
+}*/
+.table
+{
+  font-size: 0.95rem;
+  line-height: 2;
+  padding-top: 40px;
+  padding-bottom: 70px;
+}
+.abilities
+{
+  background-color: white;
+  border-style: inset none none;
+  border-color: #f4eeff;
+  opacity: 0.2;
+  border-width: 2px;
+  width: 60%;
+  margin: 75px auto;
+}
+.left
+{
+  font-size: 1.6rem;
+  font-weight: normal;
+  padding-left: 14.0625rem;
+}
+.quotes
+{
+  font-size: larger;
+  line-height: 1.5;
+}
+.btn
+{
+
+  background: #a6b1e1;
+
+  background-image: -webkit-linear-gradient(top, #a6b1e1, #424874);
+
+  background-image: -moz-linear-gradient(top, #a6b1e1, #424874);
+
+  background-image: -ms-linear-gradient(top, #a6b1e1, #424874);
+
+  background-image: -o-linear-gradient(top, #a6b1e1, #424874);
+
+  background-image: linear-gradient(top, #a6b1e1, #424874);
+
+  -webkit-border-radius: 8;
+
+  -moz-border-radius: 8;
+
+  border-radius: 8px;
+
+  font-family: Arial;
+
+  color: #ffffff;
+
+  font-size: 20px;
+
+  padding: 10px 20px 10px 20px;
+
+  text-decoration: none;
+
+}
+
+.btn:hover{
+
+  background: #424874;
+
+  background-image: -webkit-linear-gradient(top, #424874, #a6b1e1);
+
+  background-image: -moz-linear-gradient(top, #424874, #a6b1e1);
+
+  background-image: -ms-linear-gradient(top, #424874, #a6b1e1);
+
+  background-image: -o-linear-gradient(top, #424874, #a6b1e1);
+
+  background-image: linear-gradient(top, #424874, #a6b1e1);
+
+  text-decoration: none;
+}
+
+#copyright
+{
+  color: #EAF6F6;
+  font-size: 0.80rem;
+  font-family: 'Comic Neue', cursive;
+  font-weight: 700;
+}
+#SS
+{
+  text-decoration: underline;
+}
